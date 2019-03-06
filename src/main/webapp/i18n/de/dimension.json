@@ -2,7 +2,7 @@
     "teamdojoApp": {
         "dimension": {
             "home": {
-                "title": "Topics",
+                "title": "Themengebiete",
                 "createLabel": "Themengebiet erstellen",
                 "createOrEditLabel": "Themengebiet erstellen oder bearbeiten"
             },
@@ -13,7 +13,7 @@
                 "question": "Soll Themengebiet {{ id }} wirklich dauerhaft gelöscht werden?"
             },
             "detail": {
-                "title": "Topic"
+                "title": "Themengebiet"
             },
             "name": "Name",
             "description": "Description",
